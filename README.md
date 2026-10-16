@@ -61,3 +61,10 @@ And return the updated list of todos.
 
 It's going to remove one todo based on a given position at the end of the url, and return the updated list of todos.
 
+---
+
+## Notas de mantenimiento
+
+Este ejercicio conserva la documentación educativa original de **BreatheCode / 4Geeks Academy** y los endpoints REST de ejemplo. Para trabajar localmente, consulta la configuración de Pipenv y Flask del repositorio; no publiques credenciales ni claves en Git.
+
+Mantenimiento de esta copia: **KNJ** · [KNJ Marketing](https://www.marketingknj.site/).
